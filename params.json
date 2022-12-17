@@ -1,0 +1,10 @@
+{
+    "sellToken": "DAI",
+    "buyToken": "WETH",
+    "buyTokenCoingeckoId": "ethereum",
+    "capital": 100,
+    "startGrid": 1150,
+    "endGrid": 1200,
+    "steps": 20,
+    "tradesFile": "trades.json"
+}
